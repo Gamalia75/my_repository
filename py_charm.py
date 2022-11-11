@@ -6,3 +6,4 @@ def mane_function():
 
 def test_function():
     print("test - 1st commit")
+    print("test - 2nd commit")
