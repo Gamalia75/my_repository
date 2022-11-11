@@ -4,3 +4,8 @@ def mane_function():
     print("Third commit")
     print("ABCD")
     print("BCDE")
+
+
+def test_function():
+    print("test - 1st commit")
+    print("test - 2nd commit")
