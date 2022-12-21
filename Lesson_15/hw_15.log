@@ -1,0 +1,11 @@
+root - WARNING - 2022-12-13 18:23:07,651 - 'connected:', ('127.0.0.1', 62478)
+root - WARNING - 2022-12-13 18:24:33,779 - 'connected:', ('127.0.0.1', 62493)
+root - INFO - 2022-12-13 18:24:38,122 - 'Data:', b'Hello'
+root - WARNING - 2022-12-13 18:24:38,124 - 'connected:', ('127.0.0.1', 62494)
+root - INFO - 2022-12-13 18:24:43,746 - 'Data:', b'Fine'
+root - WARNING - 2022-12-13 18:24:43,747 - 'connected:', ('127.0.0.1', 62497)
+root - INFO - 2022-12-13 18:25:12,392 - 'Data:', b'jhhjh'
+root - ERROR - 2022-12-13 18:25:12,393 - I do not understand!
+root - WARNING - 2022-12-13 18:25:12,394 - 'connected:', ('127.0.0.1', 62503)
+root - INFO - 2022-12-13 18:27:31,035 - 'Data:', b''
+root - ERROR - 2022-12-13 18:27:31,036 - I do not understand!
