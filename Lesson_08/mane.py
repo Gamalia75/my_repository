@@ -1,11 +1,9 @@
 def mane_function():
-    print("First commit")
-    print("Second commit")
-    print("Third commit")
-    print("ABCD")
-    print("BCDE")
-
+    print('Hello there!')
+    print('Nice to meet you!')
+    print('Have a nice day!')
+    print('How are you?')
 
 def test_function():
-    print("test - 1st commit")
-    print("test - 2nd commit")
+    print('New code of new function!')
+    print('Another code')
