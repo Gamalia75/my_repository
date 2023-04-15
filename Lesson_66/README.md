@@ -1,5 +1,7 @@
 ## Results
 
-The mask detection classifier reached **97% accuracy**. The notebook can be run to replicate this demo and the results.
+#### Файл: HW_66_1.ipynb - реалізовано розпізнавання маски із фото, яке можна самостійно завантажити.
+
+#### Файл: HW_66_video_mask_detection.ipynb - реалізовано детекцію маски через камеру.
 
 ![](md.gif)
